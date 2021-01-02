@@ -1,0 +1,20 @@
+body {
+    background-color: #f3f3f3!important;
+}
+
+.formbg {
+    background-color: #fff;
+    border-radius: 20px;
+}
+
+.btn {
+    /* background-color: #1ebea5!important; */
+}
+
+#helpertxt {
+    font-size: 0.8rem!important;
+}
+
+input {
+    font-size: 2rem!important;
+}
